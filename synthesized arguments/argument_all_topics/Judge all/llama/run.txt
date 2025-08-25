@@ -1,0 +1,1 @@
+python3 LL_vs_G.py; python3 G_vs_DS.py; python3 DS_vs_LL.py
